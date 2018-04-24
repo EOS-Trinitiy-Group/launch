@@ -1,0 +1,30 @@
+EOS LAUNCH PROCESS
+================
+
+This script is intended to be used by the all the nodes participating
+in the launch sequence, so each node can start and join a firewalled
+closed non-block producing chain. Ready to be booted by a selected
+boot node.
+
+Very highlevel description of the test to be performed:
+
+## configure.sh script
+
+1. Download a encrypted (hashed verifiable) launch info file
+2. Decrypt and verify the downloaded file
+3. Use the information of the downloaded file to generate
+  a) the config.ini
+  b) the genesis
+  c) iptables script only allowing ingress from the nodes defined in the launch info file
+  d) iptables script to open up to all ingress
+
+## launch.sh script
+1. execute iptables script
+2. execute nodeos with correct paramss
+
+## openup.sh script
+1. open up the node for ingress
+
+Hope this will be helpfull.
+
+<3 Trinity (EOS BPs Group 3)
