@@ -1,0 +1,19 @@
+{
+"version": "042918",
+"producers": [
+{"producer_name":"eostribe", "block_signing_key":"EOS81fkevoxZiwa2BarrX8MgBm4f6zVZux5u9Rt8uaAuVpQtMJGDi"},
+{"producer_name":"edenx", "block_signing_key":"EOS5Fji6x8dgSPHzpi7NpYxQT8V1gxC7cEjKnan2CivHBikS4etyC"},
+{"producer_name":"cryptolions", "block_signing_key":"EOS4uD43rw6sB46AKWkU5rtXZnnRJeYhAtpwvHszJ8QD3Eqbgg7TE"},
+{"producer_name":"eosrio", "block_signing_key":"EOS7XYenowtgqicTieLaxiTvF3TsCctEN7g5k8ZyAPkfuvusuycnE"},
+{"producer_name":"eoscannon", "block_signing_key":"EOS7xhXqvZq9ptfrHaXh5KeDLpu7Pik62sbyTfRpkEPu3v3GLrQDW"},
+{"producer_name":"hkeos", "block_signing_key":"EOS4tiVonwbmT6w5jZjxaWx8p1CkejsBtcwtn6YaqZRteKyYGQZAE"},
+{"producer_name":"eosgravity", "block_signing_key":"EOS6Z5843PLPjjEP3vmm7eim8rHxyTsGnKGXPnvzdQj8NyoyAC7Eb"},
+{"producer_name":"eosasia", "block_signing_key":"EOS8g5uqMKwBGyHAS8zdR6WZksYjKxqrBUMr9VRbakMeufCkmGk2y"},
+{"producer_name":"topone", "block_signing_key":"EOS5ja2TA8wXeJ8zMAWPomrbmoxsB7AdeT1xu8vgooVQpcFZZSJQo"},
+{"producer_name":"viabtc", "block_signing_key":"EOS589V9T9EBqMZoE8urrtDzaCu6YWwg7ZhY6HKgxtqWRPH19ABGA"},
+{"producer_name":"eosamsterdam", "block_signing_key":"EOS643Fo4Wm5qEQuhJjQZMibhbMvUg9FJ9qQQ2vigV7MgyRyoPwDc"},
+{"producer_name":"eossocal", "block_signing_key":"EOS8MkTExpdAN2h5zp2h3iu4HvwXaeeykSyDdx3cNdrx93SGAzWVz"},
+{"producer_name":"eospace", "block_signing_key":"EOS7JXDhxJzHXLhcG4TEUnCLNEmtjrFUAWmcg2Rrr58qCxGnkRerS"},
+{"producer_name":"eoseco", "block_signing_key":"EOS85fDTxvb2P6cXuz5nQyaDwTPbemwcw6KyVDmHHZaGFNog5fBCK"},
+{"producer_name":"tokenika", "block_signing_key":"EOS8FMoqXSXMZ1LhgEgMxsEunckz28KvRqLk7ioHkmfVY8JnvyenT"}
+]}
